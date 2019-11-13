@@ -11,3 +11,20 @@ body {
     text-align: center;
     font-size: 50px;    
 }
+
+.primary-box, 
+.secondary-box {
+    padding: 1rem;
+    font-size: 1.5rem;
+}
+
+.primary-box {
+    background-color: #222;
+    color: #eee;
+}
+
+.secondary-box {
+    background-color: #eee;
+    color: #222;
+    margin: 1rem 0;
+}
